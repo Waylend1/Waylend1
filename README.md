@@ -5,7 +5,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
--[osTicket Instalation] ()
+-[osTicket Instalation] (https://github.com/Waylend1/OsTicket)
 - <b>Microsoft Azure</b>
 -[Exploreing Azure] (https://github.com/Waylend1/Azure)
 
